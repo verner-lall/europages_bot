@@ -1,0 +1,59 @@
+email;site;headcount;salesstaff;export
+delta64@deltafluid.fr;http://www.deltafluid.fr/;11 - 50;11 - 50;50%
+commerciale@gbmlavorazioni.it;http://www.gbmlavorazioni.it;;;
+info@gbmlavorazioni.it;http://www.gbmlavorazioni.it;;;
+info@minuteriebaitelli.it;http://www.minuteriebaitelli.it/mb;;;
+tecnici@temponi.it;http://www.temponi.it;;;
+simone.moretti@temponi.it;http://www.temponi.it;;;
+temponi.segreteria@temponi.it;http://www.temponi.it;;;
+temponi.paola@temponi.it;http://www.temponi.it;;;
+temponi.claudio@temponi.it;http://www.temponi.it;;;
+temponi.luisa@temponi.it;http://www.temponi.it;;;
+f.llitemponi@legalmail.it   ;http://www.temponi.it;;;
+temponi.giordano@temponi.it;http://www.temponi.it;;;
+f.llitemponi@legalmail.it;http://www.temponi.it;;;
+luca.paolini@temponi.it;http://www.temponi.it;;;
+carlos@temponi.it;http://www.temponi.it;;;
+ausra.jankauskiene@rokvelas.lt;http://www.rokvelas.lt/en/index;51 - 100;1 - 10;75%
+irena.klingiene@rokvelas.lt;http://www.rokvelas.lt/en/index;51 - 100;1 - 10;75%
+darius.venclovas@rokvelas.lt;http://www.rokvelas.lt/en/index;51 - 100;1 - 10;75%
+info@rokvelas.lt;http://www.rokvelas.lt/en/index;51 - 100;1 - 10;75%
+v.jasaitis@rokvelas.lt;http://www.rokvelas.lt/en/index;51 - 100;1 - 10;75%
+kristina.misikaite@rokvelas.lt;http://www.rokvelas.lt/en/index;51 - 100;1 - 10;75%
+gpmaus@gpmcn.com;http://www.gpmcn.com/index.php?lang=en;201 - 500;1 - 10;75%
+gpmgerm@gpmcn.com;http://www.gpmcn.com/index.php?lang=en;201 - 500;1 - 10;75%
+usoffice01@gpmcn.com;http://www.gpmcn.com/index.php?lang=en;201 - 500;1 - 10;75%
+usoffice02@gpmcn.com;http://www.gpmcn.com/index.php?lang=en;201 - 500;1 - 10;75%
+shenqingmei@gpmcn.com;http://www.gpmcn.com/index.php?lang=en;201 - 500;1 - 10;75%
+info@gpmcn.com;http://www.gpmcn.com/index.php?lang=en;201 - 500;1 - 10;75%
+info@cavalettospa.com;http://www.cavalettospa.com;11 - 50;;
+h.fritz@ingfritz.at;http://ky.to/www.inductoheat.eu;51 - 100;1 - 10;
+info@inductoheat.eu;http://ky.to/www.inductoheat.eu;51 - 100;1 - 10;
+contact@adrusinage.com;http://adr-usinage.fr/;;;
+info@multiform.fr;http://www.multiform.fr;11 - 50;;
+cmi@cmi-meca.fr;http://www.cmi-meca.fr/;;;
+%6e.%6c%65day@a%64iami%78%2ecom;http://adiamix.com/;51 - 100;1 - 10;8%
+info@seilzugwerk.de;http://www.seilzugwerk.de;51 - 100;;
+nadine.villinger@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+tobias.wagner@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+nadine.schwende@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+salvatore.demichele@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+info@aetztechnik-herz.de ;http://www.aetztechnik-herz.de;101 - 200;;
+markus.goetze@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+matthias.junger@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+simone.heim@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+m.herz@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+ramona.ceh@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+reinhold.schatz@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+s.herz@aetztechnik-herz.de;http://www.aetztechnik-herz.de;101 - 200;;
+41web@metauxemboutis.be;http://www.metauxemboutis.be/accueil.html?lg=EN;11 - 50;1 - 10;
+v.schoenenberg@theis.de;http://www.theis.de/;201 - 500;;
+theis@theis.de;http://www.theis.de/;201 - 500;;
+t.sarco@theis.de;http://www.theis.de/;201 - 500;;
+tvs@theis.de;http://www.theis.de/;201 - 500;;
+theis@theis.de ;http://www.theis.de/;201 - 500;;
+c.steinhoff@theis.de;http://www.theis.de/;201 - 500;;
+info@huehoco.dehühoco;http://www.hfp-bandstahl.de;201 - 500;;
+info@huehoco.delackherstellung;http://www.hfp-bandstahl.de;201 - 500;;
+info@farcllc.comadvanced;http://www.hfp-bandstahl.de;201 - 500;;
+info@huehoco.de;http://www.hfp-bandstahl.de;201 - 500;;
